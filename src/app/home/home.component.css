@@ -1,0 +1,67 @@
+#Keep-Updated-Block {
+  background-color: #307dc0;
+  height: 290px;
+}
+
+.Keep-Updated {
+  font-family: Montserrat !important;
+  font-size: 33px !important;
+  font-weight: bold !important;
+  font-style: normal !important;
+  font-stretch: normal !important;
+  text-align: center !important;
+  color: #ffffff !important;
+  padding-top: 70px;
+}
+
+.Know-all-the-latest {
+  font-family: Montserrat !important;
+  font-size: 14px !important;
+  font-weight: normal !important;
+  font-style: normal !important;
+  font-stretch: normal !important;
+  line-height: 1.79 !important;
+  letter-spacing: normal !important;
+  text-align: center !important;
+  color: #ffffff !important;
+  padding: 5px;
+}
+
+#Creators-block {
+  height: 343px;
+  background-color: #233042;
+}
+
+#Creators-Header {
+    font-family: Montserrat !important;
+    font-size: 19px !important;
+    font-weight: bold !important;
+    font-style: normal !important;
+    font-stretch: normal !important;
+    line-height: normal !important;
+    letter-spacing: normal !important;
+    color: #f89f20 !important;
+    padding-top: 60px !important;
+    padding-left: 100px !important;
+}
+
+input[type=text] {
+  padding: 13px !important;
+  width: 320px !important;
+  border: 1px solid #ffffff !important;
+  box-sizing: border-box;
+  font-family: Montserrat !important;
+  font-size: 13px !important;
+  font-weight: 500 !important;
+}
+
+input[type=submit]#email-list-submit {
+  padding: 13px !important;
+  width: 90px !important;
+  background-color: #233042 !important;
+  border: 1px solid #233042 !important;
+  color: #ebbc1d !important;
+  font-family: Montserrat !important;
+  font-size: 13px !important;
+  font-weight: 500 !important;
+}

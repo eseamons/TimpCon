@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}
+
+.responsive-image {
+  height: auto;
+  width:100%;
+  z-index: -1;
+  margin-top:-30px;
+}

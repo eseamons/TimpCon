@@ -1,0 +1,32 @@
+.navbar-nav a {
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal !important;
+  color: #ffffff;
+  padding-right: 20px !important;
+  padding-left: 20px !important;
+}
+.navbar-custom {
+  background-color: transparent;
+}
+.navbar-nav {
+  margin-left: 75px;
+}
+
+.navbar {
+  padding: 0;
+  height:25px;
+}
+
+.social-media-icons {
+  margin-right: 75px !important;
+}
+
+i {
+  padding-left: 10px;
+  color: #f89f20;
+}
