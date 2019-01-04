@@ -47,3 +47,61 @@
   padding-right: 40px !important;
   padding-left: 40px !important;
 }
+
+.btn-outline-warning {
+	border-color: #f89f20 !important;
+  color: #f89f20 !important;
+  font-family: Montserrat !important;
+  font-size: 15px !important;
+  font-weight: 500 !important;
+  border-width: 2px !important;
+  padding: 10px !important;
+  border-radius: 0px !important;
+}
+
+.btn-outline-warning:hover {
+  background-color: #f89f20 !important;
+  color: #ffffff !important
+}
+
+.btn-outline-warning:focus {
+  box-shadow: none !important;
+}
+
+.Get-Ready-to-Play {
+  width: 135px !important;
+  height: 72px !important;
+  font-family: Montserrat !important;
+  font-size: 24px !important;
+  font-weight: bold !important;
+  font-style: normal !important;
+  font-stretch: normal !important;
+  line-height: 1.29 !important;
+  letter-spacing: normal !important;
+  color: #233042 !important;
+}
+
+.October-19-20-Provo {
+  width: 140px !important;
+  height: 49px !important;
+  font-family: Montserrat !important;
+  font-size: 20px !important;
+  font-weight: normal !important;
+  font-style: normal !important;
+  font-stretch: normal !important;
+  line-height: normal !important;
+  letter-spacing: normal !important;
+  color: #233042 !important;
+}
+.October-19-20-Provo .text-style-1 {
+  font-size: 15px !important;
+  color: #307dc0 !important;
+}
+
+.separator {
+  width: 1px !important;
+  height: 59px !important;
+  background-color: #979797;
+  margin-right: 45px;
+  margin-left: 45px;
+}
