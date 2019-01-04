@@ -10,6 +10,10 @@
   padding-right: 20px !important;
   padding-left: 20px !important;
 }
+
+.navbar-nav a:hover {
+  color: #f89f20;
+}
 .navbar-custom {
   background-color: transparent;
 }
@@ -19,7 +23,7 @@
 
 .navbar {
   padding: 0;
-  height:25px;
+  height:30px;
 }
 
 .social-media-icons {
