@@ -45,6 +45,14 @@
 	padding-left: 20px;
 }
 
+@media screen and (max-width: 1200px) {
+  #Creators-Header {
+    	padding-left: 0px !important;
+  }
+}
+
+
+
 .Creators-Name {
   font-family: Montserrat !important;
   font-size: 15px !important;
