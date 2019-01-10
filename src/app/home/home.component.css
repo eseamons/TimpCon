@@ -28,7 +28,8 @@
 }
 
 #Creators-block {
-  height: 343px;
+  padding-top:50px;
+  padding-bottom:50px;
   background-color: #233042;
 }
 
@@ -41,8 +42,19 @@
     line-height: normal !important;
     letter-spacing: normal !important;
     color: #f89f20 !important;
-    padding-top: 60px !important;
-    padding-left: 100px !important;
+	padding-left: 20px;
+}
+
+.Creators-Name {
+  font-family: Montserrat !important;
+  font-size: 15px !important;
+  font-weight: normal !important;
+  font-style: normal !important;
+  font-stretch: normal !important;
+  line-height: 1.67 !important;
+  letter-spacing: normal !important;
+  text-align: center !important;
+  color: #ffffff !important;
 }
 
 input[type=text] {
