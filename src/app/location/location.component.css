@@ -39,3 +39,43 @@
     margin-top: 270px;
   }
 }
+
+.REGISTRATION-Content {
+
+  font-family: Montserrat !important;
+  font-size: 14px !important;
+  font-weight: normal !important;
+  font-style: normal !important;
+  font-stretch: normal !important;
+  line-height: 1.79 !important;
+  letter-spacing: normal !important;
+  color: #000000 !important;
+}
+
+.REGISTRATION-Content p {
+	margin-bottom: 60px;
+
+}
+
+.REGISTRATION-Content .header {
+  font-weight: 600;
+}
+
+.Utah-Valley-Header {
+  height: 39px !important;
+  font-family: Montserrat !important;
+  font-size: 32px !important;
+  font-weight: bold !important;
+  font-style: normal !important;
+  font-stretch: normal !important;
+  line-height: normal !important;
+  letter-spacing: normal !important;
+  color: #233042 !important;
+
+  margin-bottom: 30px;
+}
+
+.convention-info {
+	margin-top: 100px;
+	margin-left: 75px;
+}
