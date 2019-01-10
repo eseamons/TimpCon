@@ -18,22 +18,8 @@
 .mountains-footer {
   position:relative;
   height: 195px;
-  background-image: url("../../assets/mountains-footer.jpg");
+  background-repeat:repeat-x;
   z-index: -1;
-}
-
-@media 
-  (-webkit-min-device-pixel-ratio: 2) { 
-  ..mountains-footer {
-    background-image: url("../../assets/mountains-footer@2x.jpg");
-  }
-}
-
-@media 
-  (-webkit-min-device-pixel-ratio: 3) { 
-  ..mountains-footer {
-    background-image: url("../../assets/mountains-footer@3x.jpg");
-  }
 }
 
 .timpcon-banner {
