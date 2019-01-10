@@ -15,11 +15,26 @@
   color: #ebbc1d;
 }
 
+@media (min-width: 1304px) {
+	.mountains-footer-background {
+	  position:relative;
+	  height: 195px;
+	  background-image: url("../../assets/mountains-footer.jpg");
+	  background-repeat:repeat-x;
+	  z-index: -1;
+	}
+}
+
 .mountains-footer {
   position:relative;
   height: 195px;
-  background-repeat:repeat-x;
   z-index: -1;
+}
+
+@media (min-width: 1304px) {
+	.mountains-footer {
+		display: none;
+	}
 }
 
 .timpcon-banner {
