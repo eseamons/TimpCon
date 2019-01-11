@@ -34,3 +34,5 @@ i {
   padding-left: 10px;
   color: #f89f20;
 }
+
+.dropdown .dropdown-menu a{color: #000; text-decoration: none;}
