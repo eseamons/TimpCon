@@ -3,7 +3,7 @@ import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'app-badges',
   templateUrl: './badges.component.html',
-  styleUrls: ['./badges.component.css']
+  styleUrls: [ '../bootstrap.min.css', './badges.component.css']
 })
 export class BadgesComponent implements OnInit {
 

@@ -64,26 +64,6 @@
   padding-left: 40px !important;
 }
 
-.btn-outline-warning {
-	border-color: #f89f20 !important;
-  color: #f89f20 !important;
-  font-family: Montserrat !important;
-  font-size: 15px !important;
-  font-weight: 500 !important;
-  border-width: 2px !important;
-  padding: 10px !important;
-  border-radius: 0px !important;
-}
-
-.btn-outline-warning:hover {
-  background-color: #f89f20 !important;
-  color: #ffffff !important
-}
-
-.btn-outline-warning:focus {
-  box-shadow: none !important;
-}
-
 .Get-Ready-to-Play {
   width: 135px !important;
   height: 72px !important;
