@@ -1,4 +1,4 @@
-.Convention-Badges {
+.Badges-Section-Header {
   font-family: Montserrat;
   font-size: 32px;
   font-weight: bold;
@@ -8,6 +8,7 @@
   letter-spacing: normal;
   color: #233042;
   margin-top: 75px;
+  margin-bottom:15px;
 }
 
 .badges-description {
@@ -15,7 +16,7 @@
   margin-right: 75px !important;
 }
 
-.badges-text {
+.badges-section-text {
   font-family: Montserrat !important;
   font-size: 14px !important;
   font-weight: normal !important;
