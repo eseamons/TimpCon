@@ -1,0 +1,27 @@
+.Convention-Badges {
+  font-family: Montserrat;
+  font-size: 32px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #233042;
+  margin-top: 75px;
+}
+
+.badges-description {
+  margin-left: 75px !important;
+  margin-right: 75px !important;
+}
+
+.badges-text {
+  font-family: Montserrat !important;
+  font-size: 14px !important;
+  font-weight: normal !important;
+  font-style: normal !important;
+  font-stretch: normal !important;
+  line-height: 1.79 !important;
+  letter-spacing: normal !important;
+  color: #000000 !important;
+}

@@ -11,7 +11,7 @@
 }
 
 .REGISTRATION-Content p {
-	margin-bottom: 60px;
+	margin-bottom: 40px;
 
 }
 
@@ -36,4 +36,5 @@
 .convention-info {
 	margin-top: 100px;
 	margin-left: 75px;
+  margin-right: 75px;
 }
