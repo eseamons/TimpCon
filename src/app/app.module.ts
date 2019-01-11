@@ -12,6 +12,11 @@ import { AboutComponent } from './about/about.component';
 import { VendorsComponent } from './vendors/vendors.component';
 import { ContactComponent } from './contact/contact.component';
 import { LocationComponent } from './location/location.component';
+import { SupportersComponent } from './supporters/supporters.component';
+import { SponsorsComponent } from './sponsors/sponsors.component';
+import { GameLibraryComponent } from './game-library/game-library.component';
+import { VolunteersComponent } from './volunteers/volunteers.component';
+import { PrizeSponsorsComponent } from './prize-sponsors/prize-sponsors.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +29,12 @@ import { LocationComponent } from './location/location.component';
     AboutComponent,
     VendorsComponent,
     ContactComponent,
-    LocationComponent
+    LocationComponent,
+    SupportersComponent,
+    SponsorsComponent,
+    GameLibraryComponent,
+    VolunteersComponent,
+    PrizeSponsorsComponent
   ],
   imports: [
     BrowserModule,
