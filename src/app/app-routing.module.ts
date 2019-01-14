@@ -7,6 +7,11 @@ import { AboutComponent } from './about/about.component';
 import { VendorsComponent } from './vendors/vendors.component';
 import { ContactComponent } from './contact/contact.component';
 import { LocationComponent } from './location/location.component';
+import { SupportersComponent } from './supporters/supporters.component';
+import { SponsorsComponent } from './sponsors/sponsors.component';
+import { GameLibraryComponent } from './game-library/game-library.component';
+import { VolunteersComponent } from './volunteers/volunteers.component';
+import { PrizeSponsorsComponent } from './prize-sponsors/prize-sponsors.component';
 
 const routes: Routes = [
   { path: '', redirectTo: '/home', pathMatch: 'full' },
@@ -16,6 +21,11 @@ const routes: Routes = [
   { path: 'vendors', component: VendorsComponent },
   { path: 'location', component: LocationComponent },
   { path: 'contact', component: ContactComponent },
+  { path: 'supporters', component: SupportersComponent },
+  { path: 'sponsors', component: SponsorsComponent },
+  { path: 'game-library', component: GameLibraryComponent },
+  { path: 'volunteers', component: VolunteersComponent },
+  { path: 'prize-sponsors', component: PrizeSponsorsComponent },
   { path: '**', redirectTo: '/home'}
 ];
 
