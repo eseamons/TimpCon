@@ -9,6 +9,7 @@
   color: #000000 !important;
   margin-left: 75px !important;
   margin-right: 75px !important;
+  margin-top: 50px;
 }
 
 .volunteer-jobs span.volunteer-jobs-header {
@@ -17,6 +18,24 @@
 
 .volunteer-jobs p {
 	margin-bottom: 30px;
+}
+
+.volunteer-intro {
+  font-family: Montserrat !important;
+  font-size: 16px !important;
+  font-weight: norma !important;;
+  font-style: normal !important;
+  font-stretch: normal !important;
+  line-height: 1.79 !important;
+  letter-spacing: normal !important;
+  color: #000000 !important;
+  margin-left: 75px  !important;
+  margin-right: 75px !important;
+  margin-top: 75px;
+}
+.volunteer-intro .application-info {
+  font-weight: 600 !important;
+  color: #4a90e2 !important;
 }
 
 .horizontal-separator {
