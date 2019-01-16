@@ -47,6 +47,26 @@ body {
   box-shadow: none !important;
 }
 
+.btn-outline-info {
+  border-color: #14a1b8 !important;
+  color: #14a1b8 !important;
+  font-family: Montserrat !important;
+  font-size: 15px !important;
+  font-weight: 500 !important;
+  border-width: 2px !important;
+  padding: 10px 70px 10px 70px !important;
+  border-radius: 0px !important;
+}
+
+.btn-outline-info:hover {
+  background-color: #14a1b8 !important;
+  color: #ffffff !important	
+}
+
+.btn-outline-info:focus {
+  box-shadow: none !important;
+}
+
 .horizontal-separator {
 	height: 1px;
 	background-color: #979797;
