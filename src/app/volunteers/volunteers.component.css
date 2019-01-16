@@ -37,13 +37,3 @@
   font-weight: 600 !important;
   color: #4a90e2 !important;
 }
-
-.horizontal-separator {
-	height: 1px;
-	background-color: #979797;
-	margin-top: 30px;
-	margin-bottom: 30px;
-	margin-left: 75px;
-	margin-right: 75px;
-
-}

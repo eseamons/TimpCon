@@ -26,13 +26,3 @@
   letter-spacing: normal !important;
   color: #000000 !important;
 }
-
-.horizontal-separator {
-	height: 1px;
-	background-color: #979797;
-	margin-top: 30px;
-	margin-bottom: 30px;
-	margin-left: 75px;
-	margin-right: 75px;
-
-}
