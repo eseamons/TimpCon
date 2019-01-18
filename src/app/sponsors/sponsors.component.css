@@ -1,0 +1,42 @@
+.sponsor-into-paragraph {
+  font-family: Montserrat !important;
+  font-size: 15px !important;
+  font-weight: normal !important;
+  font-style: normal !important;
+  font-stretch: normal !important;
+  line-height: 1.79 !important;
+  letter-spacing: normal !important;
+  color: #000000 !important;
+  margin-left: 75px !important;
+  margin-right: 75px !important;
+  margin-top: 75px;
+}
+
+.sponsor-thank-you-header {
+  font-family: Montserrat !important;
+  font-size: 30px !important;
+  font-weight: 600 !important;
+  font-style: normal !important;
+  font-stretch: normal !important;
+  line-height: 1.04 !important;
+  letter-spacing: normal !important;
+  text-align: center !important;
+  color: #000000 !important;
+  margin-top: 75px !important;
+}
+
+.To-become-a-sponsor {
+  font-family: Montserrat !important;
+  font-size: 14px !important;
+  font-weight: 500 !important;
+  font-style: normal !important;
+  font-stretch: normal !important;
+  line-height: 1.25 !important;
+  letter-spacing: normal !important;
+  text-align: center !important;
+  color: #000000 !important;
+}
+.To-become-a-sponsor .sponsor-email {
+  font-weight: normal !important;
+  color: #4a90e2 !important;
+}
