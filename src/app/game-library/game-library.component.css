@@ -1,0 +1,46 @@
+.game-library-intro {
+  font-family: Montserrat !important;
+  font-size: 15px !important;
+  font-weight: normal !important;
+  font-style: normal !important;
+  font-stretch: normal !important;
+  line-height: 1.79 !important;
+  letter-spacing: normal !important;
+  color: #000000 !important;
+  margin-top: 75px !important;
+  margin-left: 75px !important;
+  margin-right: 75px !important;
+}
+
+
+.thank-game-library-sponsors-header {
+  font-family: Montserrat !important;
+  font-size: 24px !important;
+  font-weight: 600 !important;
+  font-style: normal !important;
+  font-stretch: normal !important;
+  line-height: 1 !important;
+  letter-spacing: normal !important;
+  text-align: center !important;
+  color: #000000 !important;
+}
+
+.game-library-sponsor {
+  width: 449px;
+  height: 75px;
+  font-family: Montserrat !important;
+  font-size: 14px !important;
+  font-weight: 500 !important;
+  font-style: normal !important;
+  font-stretch: normal !important;
+  line-height: 1.75 !important;
+  letter-spacing: normal !important;
+  text-align: center !important;
+  color: #000000 !important;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+.game-library-sponsor .sponsor-email {
+  font-weight: normal !important;
+  color: #4a90e2 !important;
+}
