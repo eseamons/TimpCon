@@ -1,5 +1,19 @@
 #Be-A-Part-Of-Timpcon-Block {
   background-color: #233042;
-  height: 275px;
-  margin-top: -4px;
+  height: 300px;
+  margin-top: -38px;
+}
+
+#Be-a-Part-of-TimpCon-Header {
+  margin-left: 75px;
+  padding-top: 50px;
+  position: relative;
+  font-family: Montserrat !important;
+  font-size: 32px !important;
+  font-weight: bold !important;
+  font-style: normal !important;
+  font-stretch: normal !important;
+  line-height: normal !important;
+  letter-spacing: normal !important;
+  color: #f89f20 !important;
 }
