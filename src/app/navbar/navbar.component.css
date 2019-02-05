@@ -36,3 +36,5 @@ i {
 }
 
 .dropdown .dropdown-menu a{color: #000; text-decoration: none; font-family: Montserrat;}
+
+.dropdown .dropdown-menu a:hover{background-color: #e6e6e6}
