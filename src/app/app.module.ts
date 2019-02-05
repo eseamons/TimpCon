@@ -34,7 +34,7 @@ import { PrizeSponsorsComponent } from './prize-sponsors/prize-sponsors.componen
     SponsorsComponent,
     GameLibraryComponent,
     VolunteersComponent,
-    PrizeSponsorsComponent
+    PrizeSponsorsComponent,
   ],
   imports: [
     BrowserModule,
