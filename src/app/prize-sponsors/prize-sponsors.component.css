@@ -1,0 +1,26 @@
+#prize-sponsor-paragraph {
+  font-family: Montserrat !important;
+  font-size: 14px !important;
+  font-weight: normal !important;
+  font-style: normal !important;
+  font-stretch: normal !important;
+  line-height: 1.79 !important;
+  letter-spacing: normal !important;
+  color: #000000 !important;
+  margin-left: 75px !important;
+  margin-right: 75px !important;
+  margin-top: 50px !important;
+}
+
+.thank-prize-sponsors {
+  font-family: Montserrat !important;
+  font-size: 24px !important;
+  font-weight: 600 !important;
+  font-style: normal !important;
+  font-stretch: normal !important;
+  line-height: 1.04 !important;
+  letter-spacing: normal !important;
+  text-align: center !important;
+  color: #000000 !important;
+  margin-top: 75px !important;
+}
