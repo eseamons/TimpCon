@@ -1,0 +1,44 @@
+.vendors-page-title {
+  width: 429px !important;
+  height: 78px !important;
+  font-family: Montserrat !important;
+  font-size: 32px !important;
+  font-weight: bold !important;
+  font-style: normal !important;
+  font-stretch: normal !important;
+  line-height: normal !important;
+  letter-spacing: normal !important;
+  color: #233042 !important;
+  margin-left: 75px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.vendor-text {
+  font-family: Montserrat !important;
+  font-size: 14px !important;
+  font-weight: normal !important;
+  font-style: normal !important;
+  font-stretch: normal !important;
+  line-height: 1.79 !important;
+  letter-spacing: normal !important;
+  color: #000000 !important;
+  margin-left: 75px;
+}
+
+.application_link_highlight {
+	color: #4a90e2;
+	text-decoration: none;
+}
+
+.thank-vendors {
+  font-family: Montserrat !important;
+  font-size: 24px !important;
+  font-weight: 600 !important;
+  font-style: normal !important;
+  font-stretch: normal !important;
+  line-height: 1.25 !important;
+  letter-spacing: normal !important;
+  text-align: center !important;
+  color: #000000 !important;
+}
