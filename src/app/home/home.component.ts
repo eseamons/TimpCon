@@ -22,13 +22,13 @@ export class HomeComponent implements OnInit {
 		  let $height = $(this).height() - 100
 		  let $width = $(this).width()
 		  $video.css({'height': $height});
-
 		});
 		
 		setTimeout(function() { //This is necessary because there is trouble with loading ie and Microsoft Edge
 			if (/Edge/.test(navigator.userAgent)) {
 				let $height = $image.height() - 100
 				let $width = $(this).width()
+
 				$video.css({'height': $height});
 			}
 		  
@@ -40,7 +40,6 @@ export class HomeComponent implements OnInit {
 			$video.css({'height': $height});
 		});
 	});
-	  
+	
   }
-
 }
