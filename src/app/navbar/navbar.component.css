@@ -17,6 +17,11 @@
 .navbar-custom {
   background-color: transparent;
 }
+
+.navbar-custom .navbar-toggler {
+  border-color: white;
+}
+
 .navbar-nav {
   margin-left: 75px;
 }
