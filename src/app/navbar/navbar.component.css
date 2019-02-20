@@ -20,6 +20,8 @@
 
 .navbar-custom .navbar-toggler {
   border-color: white;
+  border-width: 2px;
+  margin: 5px;
 }
 
 .navbar-nav {
