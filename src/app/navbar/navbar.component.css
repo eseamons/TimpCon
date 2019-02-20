@@ -41,8 +41,12 @@
 
 @media screen and (max-width:879px) {
 	.social-media-icons {
-	  margin-right: 20px !important;
-	}	
+	  margin-right: 30px !important;
+	}
+	.navbar-nav a {
+		padding-right: 15px !important;
+		padding-left: 15px !important;
+	}
 }
 
 @media screen and (max-width:767px) {
